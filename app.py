@@ -1,0 +1,7 @@
+print("Sabor Express?\n") 
+print("1. Cadastrar Restaurante")
+print("2. Listar Restaurante")
+print("3. Ativar Restaurante")
+print("4. sair")
+opcao_escolhida = input("escolha uma opcao:\n ")
+print("voce escolheu a opcao:", opcao_escolhida)
